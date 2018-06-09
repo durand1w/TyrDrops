@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tyrdrops",
+  "name": "Tyr Drops",
+  "description": "Adds unique drops and items for Ambeth Tyr",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.ambethtyr.enjin.com",
+  "updateUrl": "",
+  "authorList": ["Durand1w"],
+  "credits": "Mojang, Forge and the Community",
+  "logoFile": "assets/tyrdrops/tyrdrops.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
