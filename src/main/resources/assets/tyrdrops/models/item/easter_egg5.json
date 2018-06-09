@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "tyrdrops:items/easter_egg5"
+    }
+}

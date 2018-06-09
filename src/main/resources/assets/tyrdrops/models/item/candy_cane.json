@@ -1,0 +1,36 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "tyrdrops:items/candy_cane"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 178, 44 ],
+            "translation": [ -1.25, 5.25, 1 ],
+            "scale": [ 0.75, 0.75, 0.75 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 176, 90, 233 ],
+            "translation": [ 1.88, 3.45, 1.38],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 178, 178, 138 ],
+            "translation": [ -1.25, 5.25, 1 ],
+            "scale": [ 0.75, 0.75, 0.75 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 346, 270, 305 ],
+            "translation": [ 1.88, 3.45, 1.38],
+            "scale": [ 0.68, 0.68, 0.68 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        }
+    }
+}
+
+
+
