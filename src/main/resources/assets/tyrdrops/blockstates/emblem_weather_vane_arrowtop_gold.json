@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:emblem_weather_vane_arrowtop_gold", "y": 90 },
+        "facing=east":  { "model": "tyrdrops:emblem_weather_vane_arrowtop_gold", "y": 180 },
+        "facing=south": { "model": "tyrdrops:emblem_weather_vane_arrowtop_gold", "y": 270 },
+        "facing=west":  { "model": "tyrdrops:emblem_weather_vane_arrowtop_gold"}
+    }
+}
+

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:emblem_creeper_iron"},
+        "facing=east":  { "model": "tyrdrops:emblem_creeper_iron", "y": 90 },
+        "facing=south": { "model": "tyrdrops:emblem_creeper_iron", "y": 180 },
+        "facing=west":  { "model": "tyrdrops:emblem_creeper_iron", "y": 270 }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:campfire_oak", "y": 90 },
+        "facing=east":  { "model": "tyrdrops:campfire_oak", "y": 180 },
+        "facing=south": { "model": "tyrdrops:campfire_oak", "y": 270 },
+        "facing=west":  { "model": "tyrdrops:campfire_oak"}
+    }
+}
+

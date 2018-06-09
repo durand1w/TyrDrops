@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:treasure_mound_bits_shards_coins", "y": 90 },
+        "facing=east":  { "model": "tyrdrops:treasure_mound_bits_shards_coins", "y": 180 },
+        "facing=south": { "model": "tyrdrops:treasure_mound_bits_shards_coins", "y": 270 },
+        "facing=west":  { "model": "tyrdrops:treasure_mound_bits_shards_coins"}
+    }
+}
+

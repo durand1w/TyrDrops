@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "tyrdrops:redstone_dust_pile" }
+    }
+}

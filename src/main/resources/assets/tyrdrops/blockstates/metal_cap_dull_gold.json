@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up":    { "model": "tyrdrops:metal_cap_dull_gold" },
+        "facing=down":  { "model": "tyrdrops:metal_cap_dull_gold", "x": 180 },
+        "facing=east":  { "model": "tyrdrops:metal_cap_dull_gold", "x": 90, "y": 90 },
+        "facing=west":  { "model": "tyrdrops:metal_cap_dull_gold", "x": 90, "y": 270 },
+        "facing=south": { "model": "tyrdrops:metal_cap_dull_gold", "x": 90, "y": 180 },
+        "facing=north": { "model": "tyrdrops:metal_cap_dull_gold", "x": 90 }
+    }
+}

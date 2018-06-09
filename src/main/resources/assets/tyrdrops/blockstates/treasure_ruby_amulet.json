@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:treasure_ruby_amulet", "y": 90 },
+        "facing=east":  { "model": "tyrdrops:treasure_ruby_amulet", "y": 180 },
+        "facing=south": { "model": "tyrdrops:treasure_ruby_amulet", "y": 270 },
+        "facing=west":  { "model": "tyrdrops:treasure_ruby_amulet"}
+    }
+}
+

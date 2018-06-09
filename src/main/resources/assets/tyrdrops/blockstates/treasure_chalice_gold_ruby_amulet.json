@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:treasure_chalice_gold_ruby_amulet", "y": 270 },
+        "facing=east":  { "model": "tyrdrops:treasure_chalice_gold_ruby_amulet" },
+        "facing=south": { "model": "tyrdrops:treasure_chalice_gold_ruby_amulet", "y": 90 },
+        "facing=west":  { "model": "tyrdrops:treasure_chalice_gold_ruby_amulet", "y": 180}
+    }
+}
+

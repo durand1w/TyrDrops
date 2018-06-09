@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:emblem_crosslet_gold"},
+        "facing=east":  { "model": "tyrdrops:emblem_crosslet_gold", "y": 90 },
+        "facing=south": { "model": "tyrdrops:emblem_crosslet_gold", "y": 180 },
+        "facing=west":  { "model": "tyrdrops:emblem_crosslet_gold", "y": 270 }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "facing=north,level=0": { "model": "tyrdrops:pot_acacia_logs0", "y": 90 },
+        "facing=east,level=0":  { "model": "tyrdrops:pot_acacia_logs0", "y": 180 },
+        "facing=south,level=0": { "model": "tyrdrops:pot_acacia_logs0", "y": 270 },
+        "facing=west,level=0":  { "model": "tyrdrops:pot_acacia_logs0"},
+        "facing=north,level=1": { "model": "tyrdrops:pot_acacia_logs1", "y": 90 },
+        "facing=east,level=1":  { "model": "tyrdrops:pot_acacia_logs1", "y": 180 },
+        "facing=south,level=1": { "model": "tyrdrops:pot_acacia_logs1", "y": 270 },
+        "facing=west,level=1":  { "model": "tyrdrops:pot_acacia_logs1"},
+        "facing=north,level=2": { "model": "tyrdrops:pot_acacia_logs2", "y": 90 },
+        "facing=east,level=2":  { "model": "tyrdrops:pot_acacia_logs2", "y": 180 },
+        "facing=south,level=2": { "model": "tyrdrops:pot_acacia_logs2", "y": 270 },
+        "facing=west,level=2":  { "model": "tyrdrops:pot_acacia_logs2"}, 
+        "facing=north,level=3": { "model": "tyrdrops:pot_acacia_logs3", "y": 90 },
+        "facing=east,level=3":  { "model": "tyrdrops:pot_acacia_logs3", "y": 180 },
+        "facing=south,level=3": { "model": "tyrdrops:pot_acacia_logs3", "y": 270 },
+        "facing=west,level=3":  { "model": "tyrdrops:pot_acacia_logs3"}               
+    }
+}
+

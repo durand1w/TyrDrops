@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:banking_station", "y": 270 },
+        "facing=east":  { "model": "tyrdrops:banking_station" },
+        "facing=south": { "model": "tyrdrops:banking_station", "y": 90 },
+        "facing=west":  { "model": "tyrdrops:banking_station", "y": 180}
+    }
+}
+
