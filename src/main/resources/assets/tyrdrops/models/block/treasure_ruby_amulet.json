@@ -1,0 +1,75 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "blocks/iron_block",
+        "0": "blocks/iron_block",
+        "1": "items/ruby"
+    },
+    "elements": [
+        {
+            "name": "Ruby",
+            "from": [ 8.0, 0.0, 7.0 ], 
+            "to": [ 10.0, 1.0, 9.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 11.0, 10.0, 13.0, 12.0 ] },
+                "east": { "texture": "#-1", "uv": [ 9.0, 8.0, 10.0, 10.0 ] },
+                "south": { "texture": "#-1", "uv": [ 7.0, 9.0, 9.0, 11.0 ] },
+                "west": { "texture": "#-1", "uv": [ 6.0, 12.0, 7.0, 14.0 ] },
+                "up": { "texture": "#1", "uv": [ 7.0, 9.0, 9.0, 11.0 ] },
+                "down": { "texture": "#0", "uv": [ 11.0, 10.0, 13.0, 12.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Iron1",
+            "from": [ 7.0, 0.0, 7.0 ], 
+            "to": [ 8.0, 1.0, 9.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 0.0, 7.0, 1.0, 9.0 ] },
+                "east": { "texture": "#-1", "uv": [ 0.0, 0.0, 1.0, 2.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 7.0, 1.0, 8.0 ] },
+                "west": { "texture": "#0", "uv": [ 0.0, 4.0, 1.0, 6.0 ] },
+                "up": { "texture": "#0", "uv": [ 1.0, 3.0, 2.0, 5.0 ], "rotation": 180 },
+                "down": { "texture": "#0", "uv": [ 0.0, 7.0, 1.0, 9.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Iron2",
+            "from": [ 10.0, 0.0, 7.0 ], 
+            "to": [ 11.0, 1.0, 9.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 15.0, 10.0, 16.0, 12.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 7.0, 1.0, 9.0 ] },
+                "south": { "texture": "#0", "uv": [ 0.0, 5.0, 1.0, 6.0 ] },
+                "west": { "texture": "#-1", "uv": [ 2.0, 0.0, 3.0, 2.0 ] },
+                "up": { "texture": "#0", "uv": [ 3.0, 6.0, 4.0, 8.0 ], "rotation": 180 },
+                "down": { "texture": "#0", "uv": [ 0.0, 1.0, 1.0, 3.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Iron3",
+            "from": [ 8.0, 0.0, 6.0 ], 
+            "to": [ 10.0, 1.0, 7.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 0.0, 3.0, 1.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "south": { "texture": "#-1", "uv": [ 8.0, 4.0, 10.0, 5.0 ] },
+                "west": { "texture": "#0", "uv": [ 2.0, 0.0, 3.0, 1.0 ] },
+                "up": { "texture": "#0", "uv": [ 8.0, 4.0, 10.0, 5.0 ] },
+                "down": { "texture": "#0", "uv": [ 7.0, 0.0, 9.0, 1.0 ], "cullface": "down" }
+            }
+        },
+        {
+            "name": "Iron4",
+            "from": [ 8.0, 0.0, 9.0 ], 
+            "to": [ 10.0, 1.0, 10.0 ], 
+            "faces": {
+                "north": { "texture": "#-1", "uv": [ 1.0, 0.0, 3.0, 1.0 ] },
+                "east": { "texture": "#0", "uv": [ 0.0, 0.0, 1.0, 1.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 0.0, 3.0, 1.0 ] },
+                "west": { "texture": "#0", "uv": [ 2.0, 0.0, 3.0, 1.0 ] },
+                "up": { "texture": "#0", "uv": [ 8.0, 4.0, 10.0, 5.0 ] },
+                "down": { "texture": "#0", "uv": [ 7.0, 0.0, 9.0, 1.0 ], "cullface": "down" }
+            }
+        }
+    ]
+}
