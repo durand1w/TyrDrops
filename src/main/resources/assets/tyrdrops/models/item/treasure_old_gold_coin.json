@@ -1,0 +1,35 @@
+{
+    "parent": "tyrdrops:block/treasure_old_gold_coin",
+    "display": {
+        "gui": {
+            "rotation": [ 202, 295, 164 ],
+            "translation": [ 4.5, 4.25, 0],
+            "scale":[ 1.25, 1.25, 1.25 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.70, 0.70, 0.70 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 262, 0, 194 ],
+            "translation": [ 2.5, -1, 8.25],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 224, 358, 172 ],
+            "translation": [ 0, 4.75, 8],
+            "scale": [ 0.70, 0.70, 0.70 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 222, 190, 38 ],
+            "translation": [ 1, 1.25, -2.25],
+            "scale": [ 0.7, 0.7, 0.7 ]
+        }
+    }
+}
