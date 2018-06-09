@@ -1,0 +1,49 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "tyrdrops:blocks/gold_coins",
+        "0": "tyrdrops:blocks/gold_coins",
+        "1": "tyrdrops:blocks/gold_coin_face1"
+    },
+    "elements": [
+        {
+            "name": "Coin1",
+            "from": [ 7.0, 0.0, 11.0 ], 
+            "to": [ 12.0, 1.0, 13.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 14.0, 11.0, 15.0 ] },
+                "east": { "texture": "#0", "uv": [ 3.0, 15.0, 10.0, 16.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 12.0, 11.0, 13.0 ] },
+                "west": { "texture": "#0", "uv": [ 1.0, 12.0, 8.0, 13.0 ] },
+                "up": { "texture": "#1", "uv": [ 1.0, 0.0, 15.0, 16.0 ], "rotation": 90 },
+                "down": { "texture": "#1", "uv": [ 1.0, 0.0, 15.0, 16.0 ], "rotation": 90 }
+            }
+        },
+        {
+            "name": "Coin1a",
+            "from": [ 8.0, 0.0, 10.0 ], 
+            "to": [ 11.0, 1.0, 11.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 9.0, 15.0, 10.0 ] },
+                "east": { "texture": "#0", "uv": [ 3.0, 12.0, 9.0, 13.0 ] },
+                "south": { "texture": "#-1", "uv": [ 0.0, 0.0, 3.0, 1.0 ] },
+                "west": { "texture": "#0", "uv": [ 3.0, 13.0, 9.0, 14.0 ] },
+                "up": { "texture": "#0", "uv": [ 11.0, 6.0, 14.0, 7.0 ] },
+                "down": { "texture": "#0", "uv": [ 11.0, 4.0, 14.0, 5.0 ] }
+            }
+        },
+        {
+            "name": "Coin1b",
+            "from": [ 8.0, 0.0, 13.0 ], 
+            "to": [ 11.0, 1.0, 14.0 ], 
+            "faces": {
+                "north": { "texture": "#-1", "uv": [ 0.0, 0.0, 3.0, 1.0 ] },
+                "east": { "texture": "#0", "uv": [ 3.0, 11.0, 9.0, 12.0 ] },
+                "south": { "texture": "#0", "uv": [ 1.0, 13.0, 15.0, 14.0 ] },
+                "west": { "texture": "#0", "uv": [ 1.0, 12.0, 7.0, 13.0 ] },
+                "up": { "texture": "#0", "uv": [ 10.0, 5.0, 13.0, 6.0 ] },
+                "down": { "texture": "#0", "uv": [ 10.0, 4.0, 13.0, 5.0 ] }
+            }
+        }
+    ]
+}

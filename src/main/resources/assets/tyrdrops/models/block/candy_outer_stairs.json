@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "tyrdrops:blocks/candy_planks",
+    "top": "tyrdrops:blocks/candy_planks",
+    "side": "tyrdrops:blocks/candy_planks"
+  }
+}

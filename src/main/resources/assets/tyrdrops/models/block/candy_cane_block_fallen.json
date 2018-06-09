@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "tyrdrops:blocks/candy_cane_block_top",
+        "side": "tyrdrops:blocks/candy_cane_block_lines"
+    }
+}

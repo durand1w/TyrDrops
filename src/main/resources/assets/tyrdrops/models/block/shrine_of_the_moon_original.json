@@ -1,0 +1,7 @@
+{
+    "parent": "tyrdrops:block/shrine",
+    "textures": {
+        "outer": "tyrdrops:blocks/shrine_of_the_moon",
+        "center": "blocks/sea_lantern"
+    }
+}
