@@ -1,0 +1,37 @@
+{
+    "gold_bell": 
+    {
+    "category": "blocks", 
+    "sounds": [ "tyrdrops:gold_bell" ],
+	"subtitle": "gold bell rings" 
+    },
+    "iron_bell": 
+    {
+    "category": "blocks", 
+    "sounds": [ "tyrdrops:iron_bell" ],
+	"subtitle": "iron bell rings" 
+    },
+    "sealed_mold_open": 
+    {
+    "category": "blocks", 
+    "sounds": [ "tyrdrops:sealed_mold_open" ],
+	"subtitle": "sealed mold opens" 
+    },
+    "crate_break_open": 
+    {
+    "category": "blocks", 
+    "sounds": [ "tyrdrops:crate_break_open" ],
+	"subtitle": "crate breaks open" 
+    },
+    "coins_sliding": 
+    {
+    "category": "blocks", 
+    "sounds": 
+    [ 
+       "tyrdrops:coins1",
+       "tyrdrops:coins2",
+       "tyrdrops:coins3"
+    ],
+    "subtitle": "coins sliding" 
+    }
+}
