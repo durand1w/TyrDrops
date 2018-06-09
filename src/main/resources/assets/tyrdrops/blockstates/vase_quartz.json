@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrdrops:vase_quartz", "y": 90 },
+        "facing=east":  { "model": "tyrdrops:vase_quartz", "y": 180 },
+        "facing=south": { "model": "tyrdrops:vase_quartz", "y": 270 },
+        "facing=west":  { "model": "tyrdrops:vase_quartz"}
+    }
+}
+
