@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:candy_planks"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:candy_stairs",
+    "count": 4
+  }
+}

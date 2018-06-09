@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:log2",
+	"data": 1
+      }
+  },
+  "result": {
+    "item": "tyrdrops:campfire_dark_oak_log",
+    "count": 12
+  }
+}

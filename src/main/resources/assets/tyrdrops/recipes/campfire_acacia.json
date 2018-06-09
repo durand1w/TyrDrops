@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    " B ",
+    "A A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:campfire_acacia_log"
+      },
+    "B":
+      {
+        "item": "minecraft:stick"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:campfire_acacia"
+  }
+}

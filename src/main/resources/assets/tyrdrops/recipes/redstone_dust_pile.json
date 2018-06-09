@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:redstone"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:redstone_dust_pile"
+  }
+}

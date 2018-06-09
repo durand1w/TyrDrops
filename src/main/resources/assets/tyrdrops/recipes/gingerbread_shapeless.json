@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrdrops:gingerbread_block"
+        }
+      ],
+    "result": {
+        "item": "tyrdrops:gingerbread",
+	"count": 9
+    }
+}

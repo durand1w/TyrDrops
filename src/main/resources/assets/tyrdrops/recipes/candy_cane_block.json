@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:candy_cane"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:candy_cane_block"
+  }
+}

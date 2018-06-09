@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrdrops:candy_cane_block"
+        }
+      ],
+    "result": {
+        "item": "tyrdrops:candy_planks",
+	"count": 4
+    }
+}

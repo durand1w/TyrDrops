@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:packed_ice"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:ice_packed_bricks"
+  }
+}

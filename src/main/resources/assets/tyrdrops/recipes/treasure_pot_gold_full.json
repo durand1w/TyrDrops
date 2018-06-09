@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "DBD",
+    " A "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:treasure_pot_gold"
+      },
+    "B":
+      {
+        "item": "tyrdrops:treasure_dust_bits_gem_shards"
+      },
+    "C":
+      {
+        "item": "tyrdrops:treasure_old_gold_coin"
+      },
+    "D":
+      {
+        "item": "tyrdrops:treasure_dust_bits"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:treasure_pot_gold_full"
+  }
+}

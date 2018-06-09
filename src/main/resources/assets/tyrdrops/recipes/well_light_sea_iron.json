@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:prismarine_crystals"
+      },
+    "B":
+      {
+        "item": "minecraft:iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:well_light_sea_iron"
+  }
+}

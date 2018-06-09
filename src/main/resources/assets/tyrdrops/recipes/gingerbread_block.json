@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:gingerbread"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:gingerbread_block"
+  }
+}

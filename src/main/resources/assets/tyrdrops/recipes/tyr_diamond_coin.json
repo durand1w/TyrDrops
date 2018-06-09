@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "AAA",
+    " A "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:tyr_sapphire_coin"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:tyr_diamond_coin"
+  }
+}

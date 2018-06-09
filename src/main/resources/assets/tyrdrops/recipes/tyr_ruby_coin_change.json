@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrdrops:tyr_ruby_coin"
+        }
+    ],
+    "result": {
+        "item": "tyrdrops:tyr_emerald_coin",
+	"count": 5
+    }
+}

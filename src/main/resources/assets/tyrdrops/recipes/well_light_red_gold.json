@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    " B "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:redstone"
+      },
+    "B":
+      {
+        "item": "minecraft:gold_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:well_light_red_gold"
+  }
+}

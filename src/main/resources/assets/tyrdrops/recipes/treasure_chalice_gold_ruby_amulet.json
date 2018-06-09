@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:treasure_dust_bits_gem_shards"
+      },
+    "B":
+      {
+        "item": "tyrdrops:treasure_chalice_gold"
+      },
+    "C":
+      {
+        "item": "tyrdrops:treasure_ruby_amulet"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:treasure_chalice_gold_ruby_amulet"
+  }
+}

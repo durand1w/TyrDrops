@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " A "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrdrops:treasure_dust_bits_gem_shards"
+      },
+    "B":
+      {
+        "item": "tyrdrops:treasure_old_gold_coin"
+      }
+  },
+  "result": {
+    "item": "tyrdrops:treasure_dust_bits_shards_coin"
+  }
+}
